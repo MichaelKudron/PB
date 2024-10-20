@@ -1,0 +1,14 @@
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\bin\Debug\net8.0\AiSDZad1.exe
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\bin\Debug\net8.0\AiSDZad1.deps.json
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\bin\Debug\net8.0\AiSDZad1.runtimeconfig.json
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\bin\Debug\net8.0\AiSDZad1.dll
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\bin\Debug\net8.0\AiSDZad1.pdb
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\AiSDZad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\AiSDZad1.AssemblyInfoInputs.cache
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\AiSDZad1.AssemblyInfo.cs
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\AiSDZad1.csproj.CoreCompileInputs.cache
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\AiSDZad1.dll
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\refint\AiSDZad1.dll
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\AiSDZad1.pdb
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\AiSDZad1.genruntimeconfig.cache
+C:\Users\kobry\source\repos\AiSDZad1\AiSDZad1\obj\Debug\net8.0\ref\AiSDZad1.dll
