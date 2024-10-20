@@ -10,8 +10,8 @@ public class NewtonProduction
         for (long i = 1; i <= m; i++)
         {
             counter++;
-            value = BigInteger.Multiply(value, (n - i + 1));
-            value = value / i;
+            value = BigInteger.Divide(BigInteger.Multiply(value, (n - i + 1)), i);
+
         }
         return value;
     }
